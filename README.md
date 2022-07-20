@@ -1,2 +1,2 @@
 # demo-repo
-demo  for git into video.
+demo  for git into video!
